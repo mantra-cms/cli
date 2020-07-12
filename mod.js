@@ -1,8 +1,5 @@
-#!/usr/bin/env -S deno run --unstable
+#!/usr/bin/env -S deno run -A --unstable
 
-/* const initiator = async () => {
-  return await prompt();
-} */
 
 // Main imports and Declarations
 
